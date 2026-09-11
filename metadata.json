@@ -1,0 +1,6 @@
+{
+  "name": "TripMate",
+  "description": "Smart India travel guide and dynamic budget planner with curated itineraries, regional dining, and expense tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

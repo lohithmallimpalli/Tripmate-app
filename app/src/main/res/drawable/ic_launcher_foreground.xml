@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center 66dp safe zone: (21,21) to (87,87) -->
+    <!-- Ambient back circle badge -->
+    <path
+        android:fillColor="#1FFFFFFF"
+        android:pathData="M54,23 A31,31 0 1,0 54,85 A31,31 0 1,0 54,23 Z" />
+
+    <!-- Mountain Peaks silhouette -->
+    <path
+        android:fillColor="#E0F2FE"
+        android:pathData="M31,68 L47,44 L57,58 L63,50 L77,68 Z" />
+
+    <!-- Front Mountain Peak Accent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,68 L54,52 L65,68 Z" />
+
+    <!-- Compass needle / Dynamic paper airplane taking flight in sunset amber -->
+    <path
+        android:fillColor="#FD761A"
+        android:pathData="M54,28 L72,48 L56,44 L54,64 L52,44 L36,48 Z" />
+
+    <!-- North Star / Sparkle in bright gold -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M70,30 L72,34 L76,36 L72,38 L70,42 L68,38 L64,36 L68,34 Z" />
+
+    <!-- Base curve / Water wave accent (Backwaters & Coastal India) -->
+    <path
+        android:fillColor="#6CD3F7"
+        android:pathData="M32,70 C40,66 48,74 56,70 C64,66 72,74 76,70 L76,74 C72,78 64,70 56,74 C48,78 40,70 32,74 Z" />
+</vector>
